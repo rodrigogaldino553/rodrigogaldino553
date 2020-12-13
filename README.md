@@ -9,7 +9,7 @@ My learning is based on creating projects and contributing to the open source co
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="20" height="20"/></p><p align="center">
+<img src="https://getbootstrap.com/docs/4.0/assets/img/favicons/favicon-32x32.png" alt="Bootstrap" width="20" height="20"/></p><p align="center">
 </p> 
 
 ### 🔭&nbsp; Goals for 2021 
