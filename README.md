@@ -17,5 +17,5 @@ My learning is based on creating projects and contributing to the open source co
 - Apply for a job.
 
 ### ☕️&nbsp; Wanna chat ? 
-👉🏼&nbsp; @ me on [Linkedin](www.linkedin.com/in/rodrigogaldino553)
+👉🏼&nbsp; @ me on [Linkedin](https://linkedin.com/in/rodrigogaldino553)
 
