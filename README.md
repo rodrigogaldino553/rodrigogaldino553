@@ -5,7 +5,7 @@ My learning is based on creating projects and contributing to the open source co
 
 ### 🗒&nbsp; My experiences currently 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css" alt="html5"  width="20" height="20"/>
+html5
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="20" height="20"/>
