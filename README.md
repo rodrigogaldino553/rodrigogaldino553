@@ -5,8 +5,10 @@ My learning is based on creating projects and contributing to the open source co
 
 ### 🗒&nbsp; My experiences currently 
 <p align="left">
- - HTML5
+ HTML5
  - CSS3
+ - Ruby on rails
+ - Automated Tests
  - NodeJS
  - Javascript
  - Bootstrap
