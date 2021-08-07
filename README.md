@@ -5,17 +5,12 @@ My learning is based on creating projects and contributing to the open source co
 
 ### 🗒&nbsp; My experiences currently 
 <p align="left">
- HTML5
- - CSS3
- - Ruby on rails
- - Automated Tests
- - NodeJS
- - Javascript
- - Bootstrap
-<!--img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="20" height="20"/>
-<img src="https://getbootstrap.com/docs/4.0/assets/img/favicons/favicon-32x32.png" alt="Bootstrap" width="20" height="20"/></p><p align="center"-->
+ <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg" style="max-width:100%;">
+ - <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
+ - <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" style="max-width:100%;">
+ - <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" style="max-width:100%;">
+ - <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" style="max-width:100%;">
+ - <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" style="max-width:100%;">
 </p> 
 
 ### 🔭&nbsp; Goals for 2021 
