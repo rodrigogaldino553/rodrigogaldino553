@@ -27,6 +27,8 @@ My learning is based on creating projects and contributing to the open source co
 - Learn more about front-end
 - Create a big application with [NodeJS](https://nodejs.org/) and [Bootstrap](https://getbootstrap.com)
 - Apply for a job.
+  
+  ![Snake animation](https://github.com/rodrigogaldino553/rodrigogaldino553/blob/output/github-contribution-grid-snake.svg)
 
 
 ### ☕️&nbsp; Wanna chat ? 
