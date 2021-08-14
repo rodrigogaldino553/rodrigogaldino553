@@ -8,7 +8,7 @@ My learning is based on creating projects and contributing to the open source co
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigogaldino553&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigogaldino553&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+##
 ### 🗒&nbsp; My experiences currently 
 <p align="left">
  <img align="center" alt="Ruby" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" style="max-width:100%;">
@@ -22,14 +22,12 @@ My learning is based on creating projects and contributing to the open source co
  - <img align="center" alt="MySQL" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" style="max-width:100%;">
  - <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" style="max-width:100%;">
 </p> 
-
+##
 ### 🔭&nbsp; Goals for 2021 
 - Learn more about front-end
 - Create a big application with [NodeJS](https://nodejs.org/) and [Bootstrap](https://getbootstrap.com)
 - Apply for a job.
   
-  ![Snake animation](https://github.com/rodrigogaldino553/rodrigogaldino553/blob/output/github-contribution-grid-snake.svg)
-
 
 ### ☕️&nbsp; Wanna chat ? 
 👉🏼&nbsp; @ me on [Linkedin](https://linkedin.com/in/rodrigogaldino553)
