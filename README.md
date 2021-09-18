@@ -25,8 +25,8 @@ My learning is based on creating projects and contributing to the open source co
 
 ### 🔭&nbsp; Goals for short time
 - Learn more about front-end
-- Create a big application with [Ruby on Rails](https://nodejs.org/)
-- Learn about [ReactJS](https://getbootstrap.com)
+- Create a big application with [Ruby on Rails](https://rubyonrails.org/)
+- Learn about [ReactJS](https://pt-br.reactjs.org/)
 - Complete my college degree.
  
 ## 
