@@ -25,7 +25,7 @@ My learning is based on creating projects and contributing to the open source co
 
 ### 🔭&nbsp; Goals for 2021 
 - Learn more about front-end
-- Create a big application with [NodeJS](https://nodejs.org/) and [Bootstrap](https://getbootstrap.com)
+- Create a big application with [Ruby](https://nodejs.org/) and [Bootstrap](https://getbootstrap.com)
 - Apply for a job.
  
 ## 
