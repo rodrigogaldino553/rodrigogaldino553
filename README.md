@@ -23,10 +23,11 @@ My learning is based on creating projects and contributing to the open source co
  - <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" style="max-width:100%;">
 </p> 
 
-### 🔭&nbsp; Goals for 2021 
+### 🔭&nbsp; Goals for short time
 - Learn more about front-end
-- Create a big application with [Ruby](https://nodejs.org/) and [Bootstrap](https://getbootstrap.com)
-- Apply for a job.
+- Create a big application with [Ruby on Rails](https://nodejs.org/)
+- Learn about [ReactJS](https://getbootstrap.com)
+- Complete my college degree.
  
 ## 
  <div>
