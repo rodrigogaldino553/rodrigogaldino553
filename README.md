@@ -1,7 +1,7 @@
 👨🏻‍🚀&nbsp;Hi ! I'm Rodrigo, I'm 18 years old and I dream of being a better fullstack developer.
 
   <h3>Evolving a little bit each day</3>
-
+<p></p>
 
 ## 💡&nbsp; Seeking knowledge all the time  
 My learning is based on creating projects and contributing to the open source community. 
