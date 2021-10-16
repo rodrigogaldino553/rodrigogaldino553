@@ -11,7 +11,7 @@ My learning is based on creating projects and contributing to the open source co
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigogaldino553&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigogaldino553&amp;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigogaldino553&amp;&theme=dark">
 </div>
 
 ## 🗒&nbsp; My experiences currently 
