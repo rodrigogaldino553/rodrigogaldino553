@@ -10,6 +10,7 @@ My learning is based on creating projects and contributing to the open source co
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigogaldino553&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigogaldino553&layout=compact&langs_count=7&theme=dark"/>
 </div>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b686fb885b048f36107fe393509bcacb816d624567e00e60d202382156a5f5d5/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d6f6b616d696d6b73267468656d653d6d6f6e6f6b6169"><img src="https://camo.githubusercontent.com/b686fb885b048f36107fe393509bcacb816d624567e00e60d202382156a5f5d5/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d6f6b616d696d6b73267468656d653d6d6f6e6f6b6169" alt="" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigogaldino553&amp;theme=monokai" style="max-width: 100%;"></a>  
 
 ## 🗒&nbsp; My experiences currently 
 <p align="left">
