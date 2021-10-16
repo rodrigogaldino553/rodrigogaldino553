@@ -40,4 +40,4 @@ My learning is based on creating projects and contributing to the open source co
 
 ### ☕️&nbsp; Wanna chat ? 
 👉🏼&nbsp; @ me on [Linkedin](https://linkedin.com/in/rodrigogaldino553)
-
+https://api.countapi.xyz/hit/rodrigogaldino553/key
