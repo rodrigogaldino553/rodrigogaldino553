@@ -10,7 +10,7 @@ My learning is based on creating projects and contributing to the open source co
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigogaldino553&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigogaldino553&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigogaldino553&amp;theme=dracula"></a>  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigogaldino553&amp;theme=dracula">  
 
 ## 🗒&nbsp; My experiences currently 
 <p align="left">
