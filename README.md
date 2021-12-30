@@ -29,9 +29,9 @@ My learning is based on creating projects and contributing to the open source co
 </p> 
 
 ### 🔭&nbsp; Goals to the next years
-- Learn more about front-end
+- Learn more about Rails
 - Create a big application with [Ruby on Rails](https://rubyonrails.org/)
-- Learn about [ReactJS](https://pt-br.reactjs.org/)
+- Learn about [Rails](https://rubyonrails.org/)
 - Complete my college degree.
  
 ## 
