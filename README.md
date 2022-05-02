@@ -1,4 +1,4 @@
-👨🏻‍🚀&nbsp;Hi ! I'm Rodrigo, I'm 18 years old and I dream of being a better fullstack developer.
+👨🏻‍🚀&nbsp;Hi ! I'm Rodrigo, I'm 19 years old and I dream of being a better fullstack developer.
 
   <h3>Evolving a little bit each day</3>
 
