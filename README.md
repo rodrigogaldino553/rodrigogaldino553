@@ -11,7 +11,7 @@ Hoje, sou proficiente em Ruby on Rails, JavaScript, PostgreSQL, MySQL, HTML, CSS
 Git e GitHub. Essas ferramentas me possibilitam criar aplicações que solucionam os mais diversos problemas,
 com foco no back-end.
 
-  <h3>Se você for gente boa seja você mesmo, do contrário finja que é :smile:</3>
+  <h3>Se for gente boa seja você mesmo! do contrário faz de conta que é :smile:</3>
 
 ## 
  <div>
